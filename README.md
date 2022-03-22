@@ -7,15 +7,16 @@ Critically analyze the problem and find out:
 (Try to explain this problem to yourself aloud and ask for more information/investigate further until you fully understand the problem.)
 
 1. What is the required input data?
-A: numbers
+ numbers
 2. What should I do with this data?
-A: I must create a code that calculates the factorial of the number received and returns the result on the screen.
+ I must create a code that calculates the factorial of the number received and returns the result on the screen.
 3. What are the restrictions of this problem?
-A: The number passed to my program should be positive and whole.
+ The number passed to my program should be positive and whole.
 4. What is the expected result?
-A: The result of the factorcalculation of the number.
+ The result of the factorcalculation of the number.
 5. What is the sequence of steps to be made to reach the expected result?
-A: input number
+
+input number
 if number > 0
 if number = integer
 factorial = 1
